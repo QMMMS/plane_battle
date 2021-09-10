@@ -1,7 +1,7 @@
 import pygame as py
 from random import randint
 
-speed = 40
+speed = 40  # 如果你想修改速度，请修改此处，speed越大，速度越快
 
 
 class SnakeGame(object):
